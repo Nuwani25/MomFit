@@ -4,16 +4,16 @@ MomFit is a mobile application developed as our final-year group research projec
 
 ## Main Features
 
-### Personalized Maternal Meal Planning
+### 🔵Personalized Maternal Meal Planning
 Generates meal suggestions based on trimester, BMI, dietary preferences, cultural preferences, allergies and health conditions. Supports meal selection and daily calorie tracking.
 
-### Pregnancy Risk Forecasting
+### 🔵Pregnancy Risk Forecasting
 Uses maternal health information, ANC card data and OCR-extracted laboratory information to support predictions of gestational diabetes, anemia and low birth weight.
 
-### Pregnancy Support Assist Chatbot
+### 🔵Pregnancy Support Assist Chatbot
 Provides pregnancy-related information through text and voice interactions.
 
-### Health Risk Identification and Exercise Recommendation
+### 🔵Health Risk Identification and Exercise Recommendation
 Identifies maternal health risks and recommends exercises based on the mother's profile, trimester and risk level.
 
 ## Technologies Used
@@ -76,14 +76,13 @@ I developed the personalised maternal meal planning component to support meal se
 
 ## Research Publication
 
-The maternal nutrition and exercise components were included in the research paper:
+Our work on the maternal nutrition and exercise components contributed to the research paper:
 
 **Personalized AI System for Maternal Nutrition and Exercise**
 
 [View the research paper](https://doi.org/10.1109/ICAC69156.2025.11361494)
 
-The publication covers these two selected components of the wider MomFit project.
-
 ## Project Status
 
-MomFit is an academic research prototype. Its predictions and recommendations are intended for research demonstration and have not been established as a clinically validated service.
+MomFit is an academic research prototype. Its recommendations have not been clinically validated.
+
