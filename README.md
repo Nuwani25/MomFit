@@ -1,8 +1,6 @@
 # MomFit — AI-Driven Maternal Wellness System
 
-MomFit is a pregnancy support mobile application developed as a final-year group research project at SLIIT in 2025.
-
-The application brings together personalized meal planning, pregnancy risk forecasting, a support chatbot and exercise recommendations. It aims to help pregnant mothers access information and guidance tailored to their profiles throughout pregnancy.
+MomFit is a mobile application developed as our final-year group research project at SLIIT. It brings together personalized meal planning, pregnancy risk forecasting, a support chatbot and exercise recommendations. It aims to help pregnant mothers access information and guidance tailored to their profiles throughout pregnancy.
 
 ## Main Features
 
@@ -28,16 +26,26 @@ Identifies maternal health risks and recommends exercises based on the mother's 
 - Jupyter Notebook — Model development and experiments
 - OCR and speech recognition — Supporting features
 
+## My Contribution – Personalised Maternal Meal Planning
+
+I developed the personalised maternal meal planning component to support meal selection based on a pregnant mother's nutritional needs and preferences.
+
+### Features of My Component
+
+- Personalised meal recommendations using maternal information such as age, BMI and trimester.
+- Consideration of dietary preferences, ethnicity, allergies and selected health conditions.
+- Meal suggestions organised into breakfast, lunch, dinner and snacks.
+- Meal planning screens and calorie tracking within the mobile application.
+
+### My Work
+
+- Prepared and processed the meal planning dataset.
+- Explored Decision Tree and Random Forest models for meal classification.
+- Integrated the meal recommendation model with the Flask backend.
+- Developed the Flutter screens for my component and connected them to the backend.
+- Contributed to the research documentation and publication.
+
 ## Team Contributions
-
-### Nuwani Dahanayake
-**Personalized Maternal Meal Planning**
-
-- Developed the personalized nutrition and meal planning component.
-- Prepared the meal dataset and experimented with Decision Tree and Random Forest models.
-- Used maternal profiles, dietary preferences, cultural preferences, allergies and health conditions to personalize meal suggestions.
-- Connected the meal recommendation API to the Flutter interface.
-- Implemented meal selection and daily calorie tracking.
 
 ### Dinuwan Kumara
 **Pregnancy Risk Forecasting**
