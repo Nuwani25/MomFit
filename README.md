@@ -47,22 +47,19 @@ I developed the personalised maternal meal planning component to support meal se
 
 ## Team Contributions
 
-### Dinuwan Kumara
-**Pregnancy Risk Forecasting**
+### Dinuwan Kumara - Pregnancy Risk Forecasting
 
 - Developed the pregnancy risk forecasting component.
 - Integrated maternal health information, ANC card data and OCR-extracted laboratory information.
 - Implemented prediction workflows for gestational diabetes, anemia and low birth weight.
 
-### Adithya Ranawaka
-**Pregnancy Support Assist Chatbot**
+### Adithya Ranawaka - Pregnancy Support Assist Chatbot
 
 - Developed the pregnancy support chatbot.
 - Implemented text and voice interactions.
 - Provided pregnancy-related information and assistance through the mobile application.
 
-### Thamasha Pasidunee
-**Health Risk Identification and Exercise Recommendation**
+### Thamasha Pasidunee - Health Risk Identification and Exercise Recommendation
 
 - Developed the health risk identification component.
 - Implemented personalized exercise recommendations based on maternal profiles, trimester and identified risk levels.
