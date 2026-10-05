@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "574800757538",
+    "firebase_url": "https://mom-fit-990af-default-rtdb.firebaseio.com",
+    "project_id": "mom-fit-990af",
+    "storage_bucket": "mom-fit-990af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574800757538:android:b3b303f9c8c4b0d45d5b7b",
+        "android_client_info": {
+          "package_name": "com.example.momfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx1EFuzOxcKxKeNoMiSX1vK_2PTOl2YYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
